@@ -119,7 +119,7 @@ span.price {
 
 <div class="row">
   <div class="">
-    <div class="container">
+    <div class="container" style="float:left;">
         <form action="<?php echo $payAction;?>" method="POST">
       
         <div class="row">
@@ -151,7 +151,32 @@ span.price {
         <input type="hidden" id="pos_id" name="pos_id" >
         <input type="submit" value="Onayla" class="btn">
       </form>
+	  
     </div>
+		  <pre style="float:left;">
+	TEST KARTLARI 
+	
+	ZİRAAT BANKASI
+	Kart Numarası (Visa): 4546711234567894
+	Kart Numarası (Master Card): 5401341234567891
+	Son Kullanma Tarihi: 12/26
+	Güvenlik Numarası: 000
+	Kart 3D Secure Şifresi: a
+
+	FİNANSBANK
+	Kart Numarası (Visa): 4022774022774026
+	Kart Numarası (Master Card): 5456165456165454
+	Son Kullanma Tarihi: 12/26
+	Güvenlik Numarası: 000
+	Kart 3D Secure Şifresi: a
+
+	AKBANK
+	Kart Numarası (Visa): 4355084355084358
+	Kart Numarası (Master Card): 5571135571135575
+	Son Kullanma Tarihi: 12/26
+	Güvenlik Numarası: 000
+	Kart 3D Secure Şifresi: a
+	  </pre>
   </div>
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
