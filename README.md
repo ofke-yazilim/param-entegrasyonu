@@ -5,9 +5,11 @@ Param sanal pos entegrasyonunu PHP 7.0 kullanarak kodlanmıştır.
 - Girilen kredi kartına uygun taksitler otomotik olarak listelenir.
 
 ### 1. Config Dosyası 
-https://github.com/ofke-yazilim/Param-Entegrasyonuna/blob/master/parampos/_config.php yolunu takip ederek ulaşabilirsiniz. Bu dosya içerisinde test bilgileri tanımlanmıştır.
+https://github.com/ofke-yazilim/param-entegrasyonu/blob/master/parampos/_config.php yolunu takip ederek ulaşabilirsiniz. Bu dosya içerisinde test bilgileri tanımlanmıştır.
 
 ### 2. Test sayfası
 Projenin çalışır haline http://okesmez.com/parampos/test.php adresinden ulaşabilirsiniz.
-Örnek kodları görmek için https://github.com/ofke-yazilim/Param-Entegrasyonuna/blob/master/test.php yolunu takip edebilirsiniz.
+Örnek kodları görmek için https://github.com/ofke-yazilim/param-entegrasyonu/blob/master/test.php yolunu takip edebilirsiniz.
 
+
+Entegrasyon dökümanları için https://dev.param.com.tr/tr
