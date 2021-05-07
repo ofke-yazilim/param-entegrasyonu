@@ -1,4 +1,4 @@
-# Yeni Versiyoana ait kodlara <br><a href='https://github.com/ofke-yazilim/parampos-v2'>https://github.com/ofke-yazilim/parampos-v2</a> adresinden ulaşabilirsiniz.
+# Yeni Versiyoana ait kodlara aşağıdaki adresten ulaşabilirsiniz.<br><a href='https://github.com/ofke-yazilim/parampos-v2'>https://github.com/ofke-yazilim/parampos-v2</a> 
 <br><br>
 # Param-Entegrasyonuna
 Param sanal pos entegrasyonunu PHP 7.0 kullanarak kodlanmıştır. 
